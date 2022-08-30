@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.smartniu.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.smartniu.testplugin.MyBundle
 
 class MyApplicationService {
 
